@@ -11,8 +11,7 @@ public class PemilihanPercobaan127 {
         if (angka % 2 == 0)
             System .out.println("Angka "+angka+" bilangan genap");
         else
-            System.out.println("Angka " +angka+" bilangan ganjil ");
-        
-            
+            System.out.println("Angka " +angka+" bilangan ganjil  ");
+              
     }
 }
