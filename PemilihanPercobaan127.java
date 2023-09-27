@@ -13,5 +13,6 @@ public class PemilihanPercobaan127 {
         else
             System.out.println("Angka " +angka+" bilangan ganjil ");
         
+            
     }
 }
